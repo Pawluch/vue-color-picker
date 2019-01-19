@@ -81,18 +81,19 @@ export default {
   }
 
   #app{
-    height: 100vh;
-    background-color: #666;
-    font-family: 'Lucida Sans', sans-serif;
+    min-height: 100vh;
+    background-color: #333;
+    font-family: 'VT323', monospace;
+    font-size: 22px;
   }
   
   .container{
-    border: 1px black solid;
+    border: 5px #999 dashed;
     max-width: 295px;
     padding: 30px 0;
     margin: 0 auto;
     transform: translateY(15vh);
-    background-color: white;
+    background-color: #eee;
   }
 
   .test{
@@ -137,5 +138,15 @@ export default {
   .copy_output input {
     width: 70px;
     text-align: center;
+  }
+
+  .copy_output button{
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+
+    background-color: #ccc;
+    padding: 5px 10px;
+    border: 1px black dashed;
+    text-decoration: none;
   }
 </style>

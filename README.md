@@ -9,5 +9,7 @@ That's a simple RGB color picker.
 * selecting random color at start
 * simple input validation
 
-## Design:
-//TODO: paste the screenshot
+## Design overview:
+
+![Design screenshot](image.png)
+

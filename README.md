@@ -1,6 +1,6 @@
 # Color picker 
 
-That's a simple RGB color picker. It's  so simple because it let me learn the basics of Vue.js and Webpack utilities
+That's a simple RGB color picker. It's so simple because it let me learn the basics of Vue.js and Webpack utilities
 
 ## Functions:
 * selecting custom R, G, B components by both range and number inputs

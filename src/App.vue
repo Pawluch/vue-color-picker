@@ -88,7 +88,7 @@ export default {
   }
   
   .container{
-    border: 5px #999 dashed;
+    border: 5px #999 solid;
     max-width: 295px;
     padding: 30px 0;
     margin: 0 auto;

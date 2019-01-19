@@ -13,3 +13,6 @@ That's a simple RGB color picker.
 
 ![Design screenshot](image.png)
 
+## Link:
+
+https://pawluch.github.io/vue-color-picker/

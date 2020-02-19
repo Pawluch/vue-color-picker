@@ -15,4 +15,4 @@ That's a simple RGB color picker. It's so simple because it let me learn the bas
 
 ## Link:
 
-https://pawluch.github.io/vue-color-picker/
+https://bordowyrydwan.github.io/vue-color-picker/
